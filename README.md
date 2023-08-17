@@ -36,3 +36,21 @@ Lesson goals:
 	- Slightly related:
 		- git commit style guide: https://www.conventionalcommits.org/en/v1.0.0/ 
 - T3W1 Challenges overview 
+
+
+
+
+17th Aug 2023 - Thursday - 7pm-9pm
+Ed: https://edstem.org/au/courses/11264/lessons/39854/slides/277233
+Lesson goals:
+- Kahoot
+- Control structures
+	- if, if-else
+	- switch-case
+	- ternary
+	- short-circuit logic
+- Loops
+	- iterators vs enumerators
+	- while, do-while
+	- for
+	- for-of, for-in 
